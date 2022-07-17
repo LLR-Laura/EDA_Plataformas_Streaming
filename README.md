@@ -4,8 +4,8 @@ ________________________________________________________________________________
 
 ### Contenido de las Principales Plataformas de Streaming en EE.UU
 
-! [img](./graficos/Plataformas_Streaming.png)
 
+! [img](https://raw.githubusercontent.com/LLR-Laura/EDA_Plataformas_Streaming/graficos/Plataformas_Streaming.png)
 
 Las plataformas SVOD (Streaming Video On-Demand) empezaron a popularizarse hace poco más de 10 años, convirtiéndose a día de hoy en la opción principal de una parte mayoritaria de la población.
 
