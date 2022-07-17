@@ -1,4 +1,4 @@
-# Contenido de las Principales Plataformas de Streaming en EE.UU
+# Análisis del Contenido de las Principales Plataformas de Streaming en EE.UU
 
 ### Análisis Exploratorio de Datos
 ![img](https://raw.githubusercontent.com/LLR-Laura/EDA_Plataformas_Streaming/master/graficos/Plataformas_Streaming.png)
@@ -24,5 +24,3 @@ Las plataformas SVOD (Streaming Video On-Demand) empezaron a popularizarse hace 
 - Numpy
 - Pandas
 - Plotly
-
-*Proyecto Bootcamp Data Science, The Bridge*
