@@ -1,13 +1,9 @@
-## Análisis Exploratorio de Datos:
-## Contenido de las Principales Plataformas de Streaming en EE.UU
+## Análisis Exploratorio de Datos: <br>Contenido de las Principales Plataformas de Streaming en EE.UU
 ![img](https://raw.githubusercontent.com/LLR-Laura/EDA_Plataformas_Streaming/master/graficos/Plataformas_Streaming.png)
 
-<div style="text-align: right"> ***Proyecto Bootcamp Data Science - The Bridge*** </div>
+<div style="text-align: right"> Proyecto Bootcamp Data Science - The Bridge</div>
 
-<div style="text-align: justify"> Las plataformas SVOD (Streaming Video On-Demand) empezaron a popularizarse hace poco más de 10 años, convirtiéndose a día de hoy en la opción principal de una parte mayoritaria de la población.
-
-Desde entonces, y a la vez a la que las principales plataformas aumentaban significativamente el contenido de su catálogo, han ido apareciendo nuevas -incluyendo medios ‘tradicionales’ como HBO o Disney+ -, dejando al consumidor con un gran abanico de opciones entre las que elegir. Con este análisis pretendemos analizar el contenido de los catálogos de las plataformas más populares para encontrar sus similitudes y diferencias.
-</div>
+<div style="text-align: justify"> Las plataformas SVOD (Streaming Video On-Demand) empezaron a popularizarse hace poco más de 10 años, convirtiéndose a día de hoy en la opción principal de una parte mayoritaria de la población. Desde entonces, y a la vez a la que las principales plataformas aumentaban significativamente el contenido de su catálogo, han ido apareciendo nuevas -incluyendo medios ‘tradicionales’ como HBO o Disney+ -, dejando al consumidor con un gran abanico de opciones entre las que elegir. Con este análisis pretendemos analizar el contenido de los catálogos de las plataformas más populares para encontrar sus similitudes y diferencias.</div>
 
 | **Plataformas analizadas (contenido de EE.UU.):** |
 | :---: |
