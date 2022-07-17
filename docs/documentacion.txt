@@ -1,0 +1,16 @@
+Documentación sobre el tema - plataformas de streaming -:
+
+-   Informe 'State of Play', Nielsen 2022: https://www.nielsen.com/us/en/insights/report/2022/state-of-play/
+-   Artículo 'As the world churns: The streaming wars go global', Deloitte 2021: https://www2.deloitte.com/xe/en/insights/industry/technology/technology-media-and-telecom-predictions/2022/streaming-video-churn-svod.html
+-   Artítulo 'Best Streaming Services of 2022', US News, 2022: https://www.usnews.com/360-reviews/technology/streaming-services
+
+BASES DE DATOS
+
+Kaggle:
+
+- Amazon:   https://www.kaggle.com/datasets/victorsoeiro/amazon-prime-tv-shows-and-movies?select=titles.csv
+- Netflix:  https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies?select=titles.csv
+- HBO:      https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies?select=titles.csv     
+- Hulu:     https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies?select=titles.csv
+- Disney +: https://www.kaggle.com/datasets/victorsoeiro/disney-tv-shows-and-movies?select=titles.csv
+- Paramount +: https://www.kaggle.com/datasets/victorsoeiro/paramount-tv-shows-and-movies?select=titles.csv
